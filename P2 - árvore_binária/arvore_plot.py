@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 def menu():
-    lista = [1,2,4,6,9,12,15,23,19,27,32,17,76,29,91,102,54,82]
+   lista = [1,2,4,6,9,12,15,23,19,5,21,7,25,8,3,10,11,20,13]
 
     while True:
         print("\n====== MENU ======")
@@ -148,3 +148,4 @@ def plotar_arvore(raiz):
 
 
 menu()
+
